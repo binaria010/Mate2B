@@ -1,1 +1,35 @@
 Las clases de mate2 turno noche
+
+Primera parte:
+
+Clase 1: Acotación de funcitones, Intro a Python.
+
+Clase 2: Polinomio de Taylor y su resto
+
+Clase 3: Interpolacion de Lagrange
+
+Clase 4: Interpolacion de nodos de Chebishev
+
+Clase 5: Splines Cubicos
+
+Clase 6: Biseccion y Newton para ecuaciones no lineales
+
+Clase 7: Punto fijo y secante Para ecuciones no lineales
+
+Clase 8: Jacobi y Gauss Seidel
+
+Clase 9: Metodo de Euler para ode's
+
+Clase 10: Euler modificado, Taylor orden 2 y Runge Kutta orden 4
+
+Clase 11: Sistemas y ecuaciones de orden 2. Linealizacion. La funcion solve_ivp
+
+Clase 12: Procesos de Markov (Practica 4) 
+
+
+Segunda Parte:
+
+Clase 13: Minimos cuadrados
+
+
+
